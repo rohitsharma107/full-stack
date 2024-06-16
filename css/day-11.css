@@ -1,0 +1,76 @@
+/* element selector */
+/* div{
+    background-color: aquamarine;
+    color: brown;
+}
+p{
+    background-color: black;
+    color: yellow; 
+}
+h3{
+    background-color:purple;
+    color: white;
+} */
+
+
+/* element selector list */
+/* div,p{
+    background-color: aquamarine;
+    color: brown;
+}
+h3{
+    background-color:purple;
+    color: white; 
+} */
+
+/* universal selector */
+/* *{
+    background-color:purple;
+    color: white;
+} */
+
+
+/* id selector */
+/* #h2count2{
+    background-color:purple;
+    color: white;
+}
+#h2count4{
+    background-color:black;
+    color: yellow;
+} */
+
+
+/* class selectors */
+/* .h4classselector1{
+    background-color:purple;
+    color: white;
+}
+.h4classselector5{
+    background-color:black;
+    color: yellow;
+} */
+
+
+/* desendent selector */
+/* b i{
+    background-color:black;
+    color: yellow;
+} */
+
+
+/* direct child selector */
+ /* h4 >b{
+    background-color:black;
+    color: yellow;
+} */
+
+
+
+/* box model */
+h5{
+    border:2px solid red;
+    /* padding: 20px; */
+    padding: 30px  25px 20px 15px;
+    margin: 30px;
+}

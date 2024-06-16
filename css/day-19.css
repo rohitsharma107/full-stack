@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+     
+}
+
+.hero_section{
+    background: url(https://wallpapercave.com/wp/wp9443719.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    min-height: 60vh;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 65px;
+    padding: 16px 48px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+
+}
+.navbar_menu_container{
+    display: flex;
+    gap:40px;
+}
+
